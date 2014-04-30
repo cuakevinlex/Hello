@@ -38,3 +38,4 @@ get '/fen' do
 	str+= "<br />#{count}"
 end
 
+//Bading si Kevin hashahahhahahah
